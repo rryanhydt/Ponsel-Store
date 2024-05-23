@@ -1,1 +1,1 @@
-Learn CSS and HTLM
+Learn CSS and HTML
